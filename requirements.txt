@@ -1,0 +1,12 @@
+# Dev environment
+pip
+autopep8
+
+# App
+
+groq
+chromadb
+transformers
+torch
+groq
+pypdf2
